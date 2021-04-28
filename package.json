@@ -1,0 +1,12 @@
+{
+  "name": "loudJS",
+  "version": "1.0.0",
+  "description": "Driver for ARDUINO volume control",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@serialport/parser-readline": "^9.0.7",
+    "loudness": "^0.4.1",
+    "serialport": "^9.0.7"
+  }
+}
